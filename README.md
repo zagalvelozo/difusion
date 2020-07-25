@@ -1,15 +1,5 @@
-# difusion
-echo "# difusion" >> README.md
-git init
+# Proyecto Ingeniería de Software
 
-git add README.md
+Proyecto de Software Área Difusión UTEM en desarrollo
 
-git commit -m "first commit"
-
-git remote add origin https://github.com/zagalvelozo/difusion.git
-
-git push -u origin master
-
-git remote add origin https://github.com/zagalvelozo/difusion.git
-
-git push -u origin master
+Utilizando Laravel 5.5
